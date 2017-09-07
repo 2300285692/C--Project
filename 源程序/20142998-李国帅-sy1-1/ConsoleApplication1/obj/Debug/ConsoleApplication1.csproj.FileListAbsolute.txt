@@ -1,0 +1,12 @@
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\2016学期\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\2016学期\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\2016学期\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

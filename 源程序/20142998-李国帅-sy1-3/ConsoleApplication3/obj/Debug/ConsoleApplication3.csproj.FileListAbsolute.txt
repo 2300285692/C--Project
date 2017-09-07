@@ -1,0 +1,6 @@
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

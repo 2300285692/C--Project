@@ -1,0 +1,9 @@
+C:\Users\mo\Desktop\实训3.2\实训3.2\bin\Debug\实训3.2.exe.config
+C:\Users\mo\Desktop\实训3.2\实训3.2\bin\Debug\实训3.2.exe
+C:\Users\mo\Desktop\实训3.2\实训3.2\bin\Debug\实训3.2.pdb
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3.2.csprojResolveAssemblyReference.cache
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3._2.Form1.resources
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3._2.Properties.Resources.resources
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3.2.csproj.GenerateResource.Cache
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3.2.exe
+C:\Users\mo\Desktop\实训3.2\实训3.2\obj\Debug\实训3.2.pdb

@@ -1,0 +1,11 @@
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\墨\Desktop\2016_上学期\.net程序设计\20142998-李国帅\源程序\20142998-李国帅-sy1-2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

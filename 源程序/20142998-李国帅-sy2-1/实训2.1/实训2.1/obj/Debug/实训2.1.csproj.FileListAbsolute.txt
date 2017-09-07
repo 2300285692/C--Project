@@ -1,0 +1,9 @@
+C:\Users\mo\Desktop\实训2.1\实训2.1\bin\Debug\实训2.1.exe.config
+C:\Users\mo\Desktop\实训2.1\实训2.1\bin\Debug\实训2.1.exe
+C:\Users\mo\Desktop\实训2.1\实训2.1\bin\Debug\实训2.1.pdb
+C:\Users\mo\Desktop\实训2.1\实训2.1\obj\Debug\实训2.1.csprojResolveAssemblyReference.cache
+C:\Users\mo\Desktop\实训2.1\实训2.1\obj\Debug\实训2.1.exe
+C:\Users\mo\Desktop\实训2.1\实训2.1\obj\Debug\实训2.1.pdb
+C:\Users\mo\Desktop\20142998-李国帅-sy2-1\实训2.1\实训2.1\bin\Debug\实训2.1.exe.config
+C:\Users\mo\Desktop\20142998-李国帅-sy2-1\实训2.1\实训2.1\obj\Debug\实训2.1.exe
+C:\Users\mo\Desktop\20142998-李国帅-sy2-1\实训2.1\实训2.1\obj\Debug\实训2.1.pdb

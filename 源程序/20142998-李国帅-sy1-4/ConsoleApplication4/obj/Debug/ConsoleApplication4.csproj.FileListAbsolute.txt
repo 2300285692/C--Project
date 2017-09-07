@@ -1,0 +1,5 @@
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\练习试卷（离散数学Ⅰ）\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
